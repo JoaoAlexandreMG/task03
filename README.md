@@ -1,4 +1,4 @@
-Arquivos dos laboratórios da displina de Elementos de Sistemas Computacionais. No momento, o menu de teste contém apenas os componentes do LAB 03!
+Arquivos dos laboratórios da displina de Elementos de Sistemas Computacionais. O menu de teste contém os componentes do LAB 03!
 
 [MODULES] -> SEMPRE VAI TER OS COMPONENTES DO ULTIMO LAB, APENAS.
 [TESTS] -> SEMPRE VAI TER OS TEST BENCHES DO ULTIMO LAB, APENAS.
